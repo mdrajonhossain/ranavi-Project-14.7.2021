@@ -1,0 +1,868 @@
+/* Medium Layout: 1200px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .header-area .right-image {
+        right: -20%;
+    }
+    .navbar-area .navbar .collapse.navbar-collapse .navbar-nav .nav-item .nav-link{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .navbar-area .navbar .collapse.navbar-collapse .navbar-nav .nav-item .nav-link {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .call-to-action .call-to-action-inner .left-content-area .title {
+        font-size: 31px;
+    }
+    .how-it-works .single-how-it-work-box .icon:after {
+        right: -50px;
+    }
+    .service-area .single-service-box .content .title {
+        font-size: 19px;
+    }
+    .editing-company-area .right-content-are .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .news-feed-area .single-news-feed-item .content .title {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .footer-area .footer-top-area .footer-widget.blog-feeds .widget-body .single-blog-feed-item {
+        margin-bottom: 20px;
+    }
+    .creative-work-area .left-content-area .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .faq-area .faq-inner-area .faq-wrapper .card .card-header h5 a {
+        font-size: 13px;
+    }
+    .our-team-area .single-team-member .left-content-area {
+        width: 200px;
+    }
+    .our-team-area .single-team-member .right-content-area .name {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .our-team-area .single-team-member .right-content-area {
+        padding: 16px 30px 40px 230px;
+    }
+    .widget-area.instagram .instagram-feed li:last-child{
+        margin-top: 10px;
+    }
+    .widget-area.social .social-links li {
+        margin: 5px 0px;
+    }
+    .creative-work-area-how-page .left-content-area .title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .creative-work-area-how-page .left-content-area {
+        padding-top: 20px;
+    }
+    .get-in-touch-area .single-get-in-touch-box .content .details {
+        font-size: 14px;
+    }
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar-area .navbar .navbar-header {
+        max-width: 150px;
+        max-height: 60px;
+    }
+    .navbar-area .navbar-collapse {
+        position: absolute;
+        top: 85px;
+        background: #fff;
+        z-index: 9;
+        right: 14%;
+        width: 250px;
+        padding-left: 20px;
+    }
+    .navbar-area.navbar.navbar-light .navbar-toggler {
+        background: #fff;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item .nav-link.pl-0 {
+        padding-left: 0.4rem !important;
+    }
+    .navbar-area .navbar-collapse .navbar-nav .nav-item {
+        padding: 0;
+    }
+    .dropdown-item {
+        background: #151525;
+        color: #fff;
+    }
+    .faq-area .faq-inner-area .faq-wrapper .card .card-header h5 a {
+        padding-right: 74px;
+    }
+
+    .faq-area .faq-inner-area .faq-wrapper .card .card-header h5 a::after {
+        height: 40px;
+        line-height: 40px;
+        width: 40px;
+        border-radius: 0px 5px 0px 5px;
+    }
+    .navbar-area {
+        padding: 20px 0;
+    }
+    .navbar-area .navbar .collapse.navbar-collapse .navbar-nav .nav-item {
+        padding: 0px 20px;
+    }
+
+    .navbar-area .navbar .collapse.navbar-collapse {
+        padding-left: 0;
+    }
+
+    .navbar-area .navbar-collapse {
+        right: 0;
+        top: 140%;
+    }
+    .navbar-area .navbar .collapse.navbar-collapse .navbar-nav .nav-item.btn-wrapper {
+        padding: 0;
+        margin-left: 0;
+    }
+    .navbar-area .navbar .collapse.navbar-collapse .navbar-nav .nav-item .nav-link.boxed-btn {
+        text-align: left;
+        padding-left: 20px;
+        border: none;
+        border-radius: 0px;
+        width: 100%;
+    }
+    .header-area .right-image {
+        display: none;
+    }
+
+    .header-area .single-header-item h1 {
+        font-size: 44px;
+    }
+
+    .call-to-action .call-to-action-inner .left-content-area .title {
+        font-size: 23px;
+    }
+
+    .call-to-action .call-to-action-inner .right-content-area .btn-wrapper .boxed-btn {
+        height: 50px;
+        line-height: 50px;
+        width: 180px;
+    }
+    .single-how-it-work-box {
+        margin-bottom: 40px;
+    }
+    .how-it-works .single-how-it-work-box.arrow-none .icon:after {
+        display: none;
+    }
+
+    .how-it-works .single-how-it-work-box .icon:after {
+        right: -70%;
+    }
+    .service-area .single-service-box .content .title {
+        font-size: 18px;
+    }
+    .twentytwenty-container img {
+        width: 100%;
+    }
+    .portfolio-area .portfolio-menu-wrapper ul li {
+        height: 50px;
+        line-height: 50px;
+        font-size: 14px;
+        padding: 0px 13px;
+    }
+    .mobile-margin-bottom-30{
+        margin-bottom: 30px;
+    }
+    .single-news-feed-item {
+        margin-bottom: 30px !important;
+    }
+    .news-feed-area .single-news-feed-item .content .title {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .footer-area .footer-top-area .footer-widget.subscribe .submit-btn {
+        margin: 0;
+    }
+    .footer-widget {
+        margin-bottom: 40px;
+        overflow: hidden;
+    }
+    .counterup-area .left-content-area .img-container {
+        left: 50%;
+        transform: translateX(-50%);
+        margin-bottom: 60px;
+    }
+    .counterup-area .right-content-area .single-right-item {
+        margin-right: 20px;
+        display: inline-block;
+        width: calc(50% - 30px);
+    }
+    .counterup-area .right-content-area .single-right-item .content .counter-area .count-number,
+    .counterup-area .right-content-area .single-right-item .content .counter-area .plus {
+        font-size: 50px;
+    }
+    .creative-work-area .left-content-area {
+        margin-bottom: 60px;
+    }
+    .editing-company-area .right-content-are {
+        padding-left: 00px;
+        padding-right: 00px;
+    }
+    .editing-company-area .right-content-are .title {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+    .creative-work-area .right-content-area .video-thumb {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .section-title h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .rules-area.pricing-rules-area {
+        margin-bottom: 60px;
+    }
+
+    .pricing-table-area .pricing-table-inner .single-pricing-table .body.pricing-table-rules-2 ul li:after {
+        width: 130%;
+    }
+
+    .pricing-table-area .pricing-table-inner .single-pricing-table .body ul li:after {
+        width: 101%;
+    }
+    .navbar-area .navbar .collapse.navbar-collapse .navbar-nav .nav-item .dropdown-menu .dropdown-item {
+        background-color: transparent;
+        padding-left: 20px;
+    }
+    .sidebar {
+        max-width: 350px;
+        margin: auto;
+        margin-top: 60px;
+    }
+
+    .widget-area.tags {
+        text-align: center;
+    }
+    .trial-offer-area .trail-offer-form-wrapper .trial-offer-header .right-content-area {
+        float: none;
+    }
+
+    .trial-offer-area .trail-offer-form-wrapper .trial-offer-header .right-content-area .checkbox-element:first-child {
+        padding-left: 0;
+    }
+
+    .trial-offer-area .submit-btn {
+        margin-top: 50px;
+    }
+    .creative-work-area-how-page .left-content-area {
+        margin-bottom: 60px;
+        padding-top: 0;
+    }
+    .creative-work-area .left-content-area .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .footer-area .footer-top-area {
+        padding-bottom: 20px;
+    }
+}
+
+/* Tablet Layout wide: 768px. */
+
+@media only screen and (max-width: 767px) {
+    .navbar-area .navbar .navbar-header {
+        max-width: 150px;
+        max-height: 60px;
+    }
+     .navbar-area .navbar-collapse {
+         position: absolute;
+         top: 85px;
+         background: #fff;
+         z-index: 9;
+         right: 14%;
+         width: 250px;
+         padding-left: 20px;
+     }
+
+     .navbar-area.navbar.navbar-light .navbar-toggler {
+         background: #fff;
+     }
+
+     .navbar-area .navbar-collapse .navbar-nav .nav-item .nav-link.pl-0 {
+         padding-left: 0.4rem !important;
+     }
+
+     .navbar-area .navbar-collapse .navbar-nav .nav-item {
+         padding: 0;
+     }
+
+     .dropdown-item {
+         background: #fff;
+         color: #fff;
+     }
+     .navbar-area {
+         padding: 20px 0;
+     }
+
+     .navbar-area .navbar .collapse.navbar-collapse .navbar-nav .nav-item {
+         padding: 0px 20px;
+     }
+
+     .navbar-area .navbar .collapse.navbar-collapse {
+         padding-left: 0;
+     }
+
+     .navbar-area .navbar-collapse {
+         right: 0;
+         top: 140%;
+     }
+
+     .navbar-area .navbar .collapse.navbar-collapse .navbar-nav .nav-item.btn-wrapper {
+         padding: 0;
+         margin-left: 0;
+     }
+
+     .navbar-area .navbar .collapse.navbar-collapse .navbar-nav .nav-item .nav-link.boxed-btn {
+        text-align: left;
+        padding-left: 20px;
+        border: none;
+        border-radius: 0px;
+        width: 100%;
+     }
+     .breadcrumb-area .subtitle {
+        padding: 0px 10px;
+        box-sizing: border-box;
+        margin-bottom: 8px;
+     }
+     .breadcrumb-area .subtitle, 
+     .breadcrumb-area .subtitle p, 
+     .breadcrumb-area .subtitle div {
+        font-size: 16px;
+        line-height: 26px;
+    }
+     .header-area .right-image {
+         display: none;
+     }
+     .header-area .single-header-item h1 {
+        font-size: 30px;
+        line-height: 40px;
+     }
+
+     .call-to-action .call-to-action-inner .left-content-area .title {
+        font-size: 22px;
+        line-height: 30px;
+        text-align: center;
+     }
+     .call-to-action .call-to-action-inner .right-content-area {
+         float: none;
+         margin-top: 20px;
+     }
+     .navbar-area .navbar .collapse.navbar-collapse .navbar-nav .nav-item .nav-link.boxed-btn {
+        text-align: left;
+        padding-left: 20px;
+        border: none;
+        border-radius: 0px;
+        width: 100%;
+     }
+     .single-how-it-work-box {
+         margin-bottom: 40px;
+     }
+
+     .how-it-works .single-how-it-work-box.arrow-none .icon:after {
+         display: none;
+     }
+     .how-it-works {
+         padding-bottom: 60px;
+     }
+     .why-choose-us {
+         padding-bottom: 60px;
+     }
+     .get-in-touch-area .single-get-in-touch-box {
+        padding: 40px 20px 35px 20px;
+        height: calc(100% - 20px);
+        overflow: hidden;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+    }
+     .service-area .single-service-box .thumb img {
+         width: 100%;
+     }
+     .twentytwenty-container img {
+         width: 100%;
+     }
+     .editing-company-area .right-content-are {
+         margin-top: 20px;
+         padding-left: 0px;
+         padding-right: 0px;
+     }
+     .editing-company-area .right-content-are .title {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 15px;
+     }
+     .portfolio-area .portfolio-menu-wrapper ul {
+         border: none;
+     }
+     .portfolio-area .portfolio-menu-wrapper ul li {
+        height: 35px;
+        line-height: 35px;
+        font-size: 14px;
+        border-radius: 25px;
+        padding: 0 10px;
+     }
+     .single-portfolio-item img {
+         width: 100%;
+     }
+     .single-news-feed-item {
+        margin-bottom: 30px !important;
+     }
+     .single-news-feed-item img {
+         width: 100%;
+     }
+     .footer-area .footer-top-area .footer-widget.subscribe .submit-btn {
+         margin: 0;
+     }
+
+     .footer-widget {
+         margin-bottom: 40px;
+         overflow: hidden;
+     }
+
+     .footer-area .footer-top-area {
+         padding-bottom: 40px;
+     }
+     .counterup-area .right-content-area {
+         margin-top: 60px;
+         padding-left: 0px;
+     }
+
+     .creative-work-area .left-content-area {
+         margin-bottom: 60px;
+     }
+     .creative-work-area .left-content-area .title {
+        font-size: 28px;
+        line-height: 36px;
+     }
+     .creative-work-area .right-content-area .video-thumb img {
+         width: 100%;
+     }
+     .section-title h2 {
+         font-size: 28px;
+         line-height: 36px;
+     }
+     .faq-area .faq-inner-area .faq-header .title {
+        font-size: 17px;
+        line-height: 20px;
+    }
+     .faq-area .faq-inner-area .faq-wrapper {
+        padding: 10px 0;
+        border: none;
+     }
+     .faq-area .faq-inner-area .faq-wrapper .card .card-header h5 a {
+         padding-right: 75px;
+     }
+
+     .faq-area .faq-inner-area .faq-wrapper .card .card-header h5 a::after {
+        height: 40px;
+        line-height: 40px;
+        width: 40px;
+        border-radius: 0px 5px 0px 5px;
+     }
+     .our-team-area .single-team-member .right-content-area{
+         padding-top: 16px;
+     }
+     .rules-area.pricing-rules-area {
+         margin-bottom: 40px;
+     }
+     .single-pricing-table {
+         margin-bottom: 30px;
+     }
+     .pricing-table-area{
+         padding-bottom: 90px;
+     }
+     .blog-page-inner .single-blog-post .content .post-title {
+        font-size: 18px;
+        line-height: 27px;
+    }
+     .sidebar {
+         margin-top: 60px;
+     }
+     .widget-area {
+        padding: 0px 20px 0px 20px;
+    }
+
+     .widget-area.tags {
+         text-align: center;
+     }
+     .blog-details-content .single-blog-post .details-container .post-body .title {
+         font-size: 23px;
+         line-height: 33px;
+     }
+     .blog-details-content .single-blog-post .details-container .post-body .post-bottom-content .top-content .right-content .title {
+         display: none;
+     }
+
+     .blog-details-content .single-blog-post .details-container .post-bottom-content .bottom-content .right-content .title {
+        display: block;
+        font-size: 16px;
+        margin-bottom: 2px;
+        font-weight: 500;
+    }
+
+     .blog-details-content .single-blog-post .details-container .post-body .post-bottom-content .bottom-content .right-content {
+         float: none;
+         margin-top: 20px;
+     }
+     .trial-offer-area .trail-offer-form-wrapper .trial-offer-header .left-content-area .title {
+         font-size: 35px;
+         line-height: 45px;
+     }
+     .trial-offer-area .trail-offer-form-wrapper .trial-offer-header .right-content-area {
+         float: none;
+     }
+
+     .trial-offer-area .trail-offer-form-wrapper .trial-offer-header .right-content-area .checkbox-element:first-child {
+         padding-left: 0;
+     }
+     .trial-offer-area .submit-btn {
+         display: block;
+         margin-top: 50px;
+     }
+     .how-it-works .single-how-it-work-box .icon:after {
+         display: none;
+     }
+     .pricing-table-area .pricing-table-inner .single-pricing-table .body ul li:after {
+         width: 100%;
+     }
+     .creative-work-area-how-page .left-content-area .title {
+         font-size: 40px;
+         line-height: 50px;
+     }
+     .creative-work-area-how-page .left-content-area {
+         margin-bottom: 60px;
+     }
+     .brand-carousel-area .brand-carousel-inner .single-carousel-item {
+         padding: 20px;
+     }
+    .header-area .single-header-item .subtitle, 
+    .header-area .single-header-item .subtitle p, 
+    .header-area .single-header-item .subtitle div, 
+    .header-area .single-header-item .subtitle span {
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+    .footer-area .footer-top-area .footer-widget .widget-title {
+        margin-bottom: 20px;
+    }
+    .footer-area .footer-top-area .footer-widget .widget-title .title {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .signup-page-area {
+        padding: 40px 0 40px 0;
+    }
+    .signup-form-wrapper .btn.btn-link {
+        width: 80%;
+        margin: 20px auto 0 auto;
+        display: block;
+    }
+}
+
+/* medium tablet layout 599px */
+
+@media only screen and (max-width: 599px) {
+    .support-bar-area .support-bar-inner .left-content-area {
+        float: none;
+        display: block;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .support-bar-area .support-bar-inner .right-content-area {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+    .header-area .single-header-item h1 span {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .header-area .single-header-item h1 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .header-area .single-header-item .btn-wrapper .boxed-btn {
+        width: 170px;
+        margin-bottom: 20px;
+        margin-left: 0;
+    }
+    .header-area {
+        padding: 100px 0 100px 0;
+    }
+    .call-to-action .call-to-action-inner .right-content-area {
+        float: none;
+        display: block;
+    }
+
+    .call-to-action .call-to-action-inner .right-content-area .btn-wrapper .boxed-btn {
+           display: block;
+           margin: 0 auto;
+    }
+    .counterup-area .right-content-area {
+        margin-top: 80px;
+        padding-left: 0px;
+    }
+    .creative-work-area .left-content-area .title {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .our-team-area .single-team-member {
+        position: relative;
+        left: 0;
+        right: 0;
+        width: auto;
+        max-width: 300px;
+        margin: auto;
+        overflow: hidden;
+        margin-bottom: 20px;
+    }
+    .our-team-area .single-team-member .left-content-area {
+        position: initial;
+        width: 100%;
+    }
+
+    .our-team-area .single-team-member .left-content-area img {
+        width: 100%;
+    }
+
+    .our-team-area .single-team-member .right-content-area {
+        padding: 20px 40px;
+        text-align: center;
+    }
+    .testimonial-area .testimonail-carousel .single-testimonial-item{
+        margin: 10px;
+    }
+    
+    .blog-page-inner .single-blog-post .content .meta-date {
+        width: 0px;
+        display: none;
+    }
+    .blog-page-inner .single-blog-post .content .post-content {
+        padding-left: 0px;
+    }
+    .blog-details-content .single-blog-post .details-container .post-body .title {
+        font-size: 20px;
+        line-height: 33px;
+    }
+    .blog-details-content .single-blog-post .details-container .post-body .post-blockquote .icon {
+        display: none;
+    }
+
+    .blog-details-content .single-blog-post .details-container .post-body .post-blockquote .content {
+        padding-left: 0;
+    }
+    .blog-details-content .single-blog-post .details-container .post-body .post-bottom-content .bottom-content .left-content ul li a {
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .blog-details-content .single-blog-post .meta-time {
+        position: initial;
+        margin-bottom: 30px;
+    }
+
+    .blog-details-content .single-blog-post .details-container {
+        padding-left: 0;
+    }
+    .trial-offer-area .submit-btn {
+        width: 100%;
+    }
+    .breadcrumb-area .title {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .signup-form-wrapper {
+        padding: 20px;
+    }
+    .contact-form-inner {
+        padding: 20px;
+    }
+    .header-area .single-header-item .subtitle, 
+    .header-area .single-header-item .subtitle p, 
+    .header-area .single-header-item .subtitle div, 
+    .header-area .single-header-item .subtitle span {
+        margin-bottom: 18px;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .how-it-works .single-how-it-work-box .content .title {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .why-choose-us .single-why-choose-us-box .content .title {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .service-area .single-service-box .content {
+        padding: 20px 10px 20px 10px;
+    }
+    .service-area .single-service-box .content .title {
+        font-size: 18px;
+    }
+}
+
+/* mobile tablet layout 414px */
+
+@media only screen and (max-width: 414px) {
+    .call-to-action .call-to-action-inner .left-content-area .title {
+        font-size: 22px;
+        line-height: 30px;
+        text-align: center;
+    }
+    .blog-page-inner .single-blog-post .content .meta-date {
+        position: initial;
+        margin-bottom: 30px;
+    }
+
+    .blog-page-inner .single-blog-post .content .post-content {
+        padding-left: 0;
+    }
+    .creative-work-area-how-page .left-content-area .title {
+        font-size: 34px;
+        line-height: 45px;
+    }
+    .creative-work-area-how-page .right-content-area #video-thumb-carousel .owl-nav div {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .creative-work-area-how-page .left-content-area{
+        padding-top: 0;
+    }
+    .testimonial-area .testimonail-carousel .single-testimonial-item .author-details {
+        padding-left: 20px;
+    }
+    .testimonial-area .testimonail-carousel .single-testimonial-item .author-details .thumb {
+        left: 20px;
+    }
+}
+
+/* mobile tablet layout 384px */
+
+@media only screen and (max-width: 384px) {
+   .header-area .single-header-item h1 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+   .editing-company-area {
+       padding-bottom: 110px;
+   }
+    .header-area .single-header-item .btn-wrapper .boxed-btn {
+        width: 160px;
+        margin-bottom: 20px;
+        margin-left: 0;
+    }
+   .editing-company-area .right-content-are .title {
+       font-size: 31px;
+       line-height: 45px;
+   }
+   .support-bar-area .support-bar-inner .left-content-area ul li {
+       margin: 0;
+       display: block;
+       margin-bottom: 10px;
+   }
+   .brand-carousel-area .brand-carousel-inner .single-carousel-item img {
+       width: 140px;
+       margin: 0 auto;
+   }
+   .section-title h2 {
+       font-size: 24px;
+       line-height: 32px;
+   }
+   .brand-carousel-area .brand-carousel-inner .single-carousel-item{
+       padding: 0;
+   }
+}
+
+/* mobile tablet layout 360px */
+
+@media only screen and (max-width: 360px) {
+    .counterup-area {
+        padding-bottom: 40px;
+    }
+    .pricing-table-area .left-content-area .title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .header-area .single-header-item .btn-wrapper .boxed-btn{
+        width: 100%;
+    }
+}
+
+/* mobile tablet layout 320px */
+
+@media only screen and (max-width: 320px) {
+   .creative-work-area-how-page .left-content-area .title {
+       font-size: 27px;
+       line-height: 36px;
+   }
+   .creative-work-area-how-page .left-content-area .subtitle {
+       font-size: 18px;
+       line-height: 28px;
+       margin-bottom: 10px;
+   }
+   .breadcrumb-area .subtitle {
+       font-size: 18px;
+       line-height: 28px;
+       margin-bottom: 10px;
+   }
+   .breadcrumb-area .title {
+       font-size: 35px;
+       line-height: 45px;
+   }
+   .news-feed-area .single-news-feed-item .content .title {
+       font-size: 18px;
+       line-height: 25px;
+       margin-bottom: 20px;
+   }
+   .breadcrumb-area.about,
+   .breadcrumb-area.price {
+       padding: 80px 0 75px 0;
+   }
+   .widget-area.instagram .instagram-feed li:last-child {
+       margin-top: 10px;
+   }
+
+   .blog-details-content .comments-area .single-comment-item .thumb {
+       position: initial;
+   }
+
+   .blog-details-content .comments-area .single-comment-item .content {
+       padding-left: 0;
+   }
+
+   .blog-details-content .comments-area .single-comment-item .reply-btn {
+       top: 30px;
+   }
+   .blog-details-content .single-blog-post .details-container .meta-tags ul li {
+       font-size: 12px;
+   }
+   .widget-area.social .social-links li {
+       margin: 0;
+   }
+   .widget-area.latest-post .single-latest-post .media .media-body h5 {
+       font-size: 14px;
+       line-height: 20px;
+   }
+   .creative-work-area .left-content-area .title {
+       font-size: 27px;
+       line-height: 37px;
+   }
+   .creative-work-area .left-content-area .subtitle {
+       font-size: 18px;
+       line-height: 28px;
+   }
+}
